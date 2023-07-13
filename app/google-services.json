@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "882535031178",
+    "project_id": "fcm-example-f04e0",
+    "storage_bucket": "fcm-example-f04e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882535031178:android:3c273b52f369ae7f692873",
+        "android_client_info": {
+          "package_name": "com.rubabe.fcmapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882535031178-3elaabh4lhpv9t8p1v3oo7fhlk9q3nfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzcqJ0tCSOarMK-QRzkaAxcDLoIxYhKfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882535031178-3elaabh4lhpv9t8p1v3oo7fhlk9q3nfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
